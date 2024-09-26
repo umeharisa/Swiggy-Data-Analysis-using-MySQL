@@ -22,6 +22,7 @@ The following key questions were addressed in this analysis:
 8. Month-on-Month Revenue Growth of Each Restaurant: Analyzed the revenue growth of individual restaurants over successive months.
 
 Technologies Used
+
 Database: MySQL
 
 SQL Workbench: For executing and managing SQL queries
