@@ -23,4 +23,5 @@ The following key questions were addressed in this analysis:
 
 Technologies Used
 Database: MySQL
+
 SQL Workbench: For executing and managing SQL queries
